@@ -1,3 +1,0 @@
-toinen testi, jossa muokataan sisältöä
-
-myös tänne muutos git add -p komentoa varten
