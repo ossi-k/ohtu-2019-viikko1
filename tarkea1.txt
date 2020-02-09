@@ -3,3 +3,5 @@ lisätään alkuun tekstiä master-branchissa
 tehdään uusi tarkea.txt-tiedosto tehtävää kuusi varten, koska eka meni mönkään
 
 lisätään toka-branchissa tekstiä
+
+lisätään loppuun vielä kamaa tehtävässä 6
